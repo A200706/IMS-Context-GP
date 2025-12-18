@@ -1,4 +1,4 @@
-# IMS Staatskunde Schweiz – Super-MD (6/6 Version)
+# IMS Staatskunde Schweiz – Super-MD
 Zweck: Prüfungsvorbereitung + saubere Kurzantworten (kurz, punktesicher, nachvollziehbar).  
 Prinzip: Frage erkennen → passende Schablone (QT-*) → passender Themenblock (T-*) → Antwort checken.
 
