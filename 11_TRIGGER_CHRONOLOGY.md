@@ -37,3 +37,15 @@
 - **28.07.**: AH → Serbien (lokaler Krieg noch möglich).
 - **01.08.**: DE → Russland (erste Großmacht-Erklärung).
 - **04.08.**: GB → DE (Krieg wird Weltkrieg durch Empire-Beteiligung).
+
+## Die kritische Kette (4 Schritte für Prüfungen)
+
+1. **Attentat** (28.06.1914) – Auslöser
+2. **Blankovollmacht** (05.07.1914) – Deutsche Freigabe
+3. **Ultimatum & Kriegserklärung AH** (23.07 + 28.07.1914) – **DIESER SCHRITT FEHLTE IN ANTWORT**
+   - 23.07: Ultimatum an Serbien
+   - 28.07: AH erklärt Serbien den Krieg (lokaler Krieg wird unvermeidlich)
+4. **Deutsche Kriegserklärung** (01.08.1914 an Russland) – Weltkrieg beginnt
+
+**WICHTIG:** Nie vom Ultimatum (23.7) direkt zur deutschen Erklärung (1.8) springen. 
+Der 28.7. ist der entscheidende Zwischenschritt, der den Bündnisfall auslöst.
