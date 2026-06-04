@@ -49,3 +49,18 @@
 
 **WICHTIG:** Nie vom Ultimatum (23.7) direkt zur deutschen Erklärung (1.8) springen. 
 Der 28.7. ist der entscheidende Zwischenschritt, der den Bündnisfall auslöst.
+
+## Eskalationsleiter der Julikrise (Analyse-Framework)
+
+**Diplomatische Ebene (revidierbar):**
+- 5.7.: Blankovollmacht (noch kein Krieg, aber Commitment)
+- 23.7.: Ultimatum (letzte Drohung, aber diplomatisch)
+
+**Militärische Ebene (irreversible Punkte):**
+- 28.7.: AH erklärt Serbien den Krieg ← ERSTER PUNKT OHNE ZURÜCK
+- 29.7.: Russland ordnet Mobilmachung an ← BÜNDNISFALL AKTIVIERT
+- 1.8.: DE erklärt Russland den Krieg ← KONTINENTALKRIEG
+- 4.8.: GB erklärt DE den Krieg ← WELTKRIEG
+
+**Prüfungsrelevanz**: Bei "zentralen Schritten" immer die militärische Ebene wählen. 
+Das Ultimatum (23.7.) ist Vorbereitung, nicht der zentrale Schritt.
