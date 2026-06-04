@@ -46,3 +46,17 @@
 - Einfache Liste mit Kommas oder Aufzählungspunkten nur wenn explizit mehrere Punkte gefordert
 - Bei 4+ Punkten: Nummerierung
 **Beispiel**: "Die Hauptursachen: Nationalismus, Imperialismus, Bündnissystem, Wettrüsten."
+
+## Fragetyp-Spezifische Präzisionsanforderungen
+
+**Typ B (Chronologie)**: 
+- Zwischenfrage: "Ist dies ein diplomatischer Schritt oder militärischer Akt?"
+- Markiere: Kriegserklärungen explizit als "Kriegserklärung [Akteur] an [Akteur]"
+
+**Typ C (Kausalität)**:
+- Zwischenfrage: "Was ist die unmittelbare Ursache und was die Bedingung?"
+- Markiere: Unterscheide "Auslöser" (Sarajevo) von "Ursachen" (Nationalismus etc.)
+
+**Typ E (Erklärung komplex)**:
+- Zwischenfrage: "Habe ich alle Akteure in der richtigen Reihenfolge genannt?"
+- Markiere: Bei Scheitern-Fragen (Schlieffen-Plan) konkrete Gründe nennen, nicht nur "er scheiterte"
