@@ -64,3 +64,17 @@
 - 1916: Materialschlachten (Somme, Verdun).
 - 1917: Revolution (Russland), USA-Eintritt – Wendepunkt.
 - 1918: Deutsche Offensiven scheitern, Revolution, Waffenstillstand.
+
+## 1917: Zwang zur Spezifizierung
+
+**NIE einfach "die russische Revolution" schreiben.**
+
+Stattdessen dynamisch unterscheiden:
+
+| Monat | Ereignis | Was änderte sich? | Kriegsfolge |
+|-------|----------|-------------------|-------------|
+| März (Feb jul.) | Februarrevolution | Zar Nikolaus II. abdiziert, provisorische Regierung | Russland bleibt im Krieg (vorläufig) |
+| Nov (Okt jul.) | Oktoberrevolution | Bolschewiki (Lenin) übernehmen Macht | Russland sucht Ausstieg (Frieden Brest-Litowsk) |
+| April | USA-Eintritt | Amerikanische Truppen/ Material für Entente | Kriegswende, Frische Reserven |
+
+**Analyse-Muster**: "Während die Februarrevolution nur die Regierung wechselte, führte die Oktoberrevolution zum Ausstieg Russlands aus dem Krieg."
